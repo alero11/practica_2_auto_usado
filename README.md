@@ -36,13 +36,18 @@ información estadistica de los datos
 
 ## Resultados
 
-Se han realizado pruebas con RandomForest, AdaBoostClassifier y GradientBoostClassifier. De todos ellos, obtuvimos la mejor puntuación con AdaBoosClassifier. Para las métricas, se utilizó el promedio "Macro" ya que el conjunto de datos está desequilibrado.
+Dado que el conjunto de datos se tiene la predicción
 
-Evaluación total sobre todas las categorías: Precisión: 0.7763, Recordación: 0.6473, FScore: 0.6793
+![image](https://user-images.githubusercontent.com/16781247/163121107-7390cb1f-8ad0-406b-9653-8bb48352457e.png)
+
+se tiene el siguiente resultado
+
+![image](https://user-images.githubusercontent.com/16781247/163121171-68d18b3a-497a-4377-87d0-098d3afae395.png)
+
 
 ## Conclusiones
 
-Dado que el conjunto de datos tiene un sin fin de valores, procederemos a utilizar el 'promedio macro' para las métricas de evaluación del modelo. Por lo tanto, el macropromedio da a cada clase la misma importancia y, por lo tanto, refleja mejor qué tan bien se desempeña el modelo.
+dados los valores del dataset se predice que hay una reducción en el precio de 1000 al conjuto de datos original
 
 
 ## License
