@@ -40,9 +40,14 @@ Dado que el conjunto de datos se tiene la predicción
 
 ![image](https://user-images.githubusercontent.com/16781247/163121107-7390cb1f-8ad0-406b-9653-8bb48352457e.png)
 
-se tiene el siguiente resultado
+se tiene el analisis de dato por dato
 
-![image](https://user-images.githubusercontent.com/16781247/163121171-68d18b3a-497a-4377-87d0-098d3afae395.png)
+![image](https://user-images.githubusercontent.com/16781247/163121971-7cdeb0fb-fa48-45c0-b9d8-3b7babc979b0.png)
+
+![image](https://user-images.githubusercontent.com/16781247/163122050-5dd5e416-be12-474d-b98f-cb1b3cad78f4.png)
+
+![image](https://user-images.githubusercontent.com/16781247/163122083-63b99d14-6de4-42b8-89c4-5873cecde0a9.png)
+
 
 
 ## Conclusiones
