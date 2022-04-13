@@ -30,16 +30,6 @@ información de los campos
 
 ![image](https://user-images.githubusercontent.com/16781247/161183789-b7c36f31-8eec-4559-8633-62d90373187a.png)
 
-información estadistica de los datos
-
-![image](https://user-images.githubusercontent.com/16781247/161184043-7d5bd086-60a2-4585-b235-c000ae8329b6.png)
-
-## Resultados
-
-Dado que el conjunto de datos se tiene la predicción
-
-![image](https://user-images.githubusercontent.com/16781247/163121107-7390cb1f-8ad0-406b-9653-8bb48352457e.png)
-
 se tiene el analisis de dato por dato
 
 ![image](https://user-images.githubusercontent.com/16781247/163121971-7cdeb0fb-fa48-45c0-b9d8-3b7babc979b0.png)
@@ -48,6 +38,15 @@ se tiene el analisis de dato por dato
 
 ![image](https://user-images.githubusercontent.com/16781247/163122083-63b99d14-6de4-42b8-89c4-5873cecde0a9.png)
 
+## Resultados
+
+Dado que el conjunto de datos se tiene la predicción
+
+![image](https://user-images.githubusercontent.com/16781247/163121107-7390cb1f-8ad0-406b-9653-8bb48352457e.png)
+
+la prediccion seria 
+
+![image](https://user-images.githubusercontent.com/16781247/163122413-ff0cd817-1a4b-4ddf-8a4d-b76da38b42d1.png)
 
 
 ## Conclusiones
