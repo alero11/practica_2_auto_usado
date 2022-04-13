@@ -20,9 +20,18 @@ pegue ahi el archivo .csv.
 
 ## Librerias
 
+#importamos las librerias
+%matplotlib inline
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import re
+import datetime
+from sklearn.model_selection import train_test_split
 
 
-## Dataset
+## EDA (AnalIsis Exploratorio de Datos)
 
 ![image](https://user-images.githubusercontent.com/16781247/161183677-7172b1df-944b-4108-9486-703b9db27657.png)
 
@@ -52,6 +61,12 @@ la prediccion seria
 ## Conclusiones
 
 dados los valores del dataset se predice que hay una reducción en el precio de 1000 al conjuto de datos original
+
+## Publicación
+
+puede visualizar el articulo en MEDIUM
+
+https://medium.com/@alexr.torob/practica-2-prediccion-precio-autos-usados-cb5ffe8132f6
 
 
 ## License
